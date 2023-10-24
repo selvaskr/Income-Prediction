@@ -4,11 +4,11 @@
 
 # Algorithms Used For Prediction:
 
-XGBoosting Accuracy 
-Logistic Regression
-k-Nearest Neighbors 
-Naive Bayes          
-Support Vector Machine
+- XGBoosting Accuracy 
+- Logistic Regression
+- k-Nearest Neighbors 
+- Naive Bayes          
+- Support Vector Machine
 
 Out of all the above algorithms XG Boost gives the high accuracy for prediction.
 
